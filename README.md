@@ -33,7 +33,7 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 ### Preview
 <img src="https://github.com/GuilhermeSimbalista/Teste-Cadastro-Usuario/blob/main/img/frontend.JPG" alt="preview" width="250" height="250" />
 
-### Mobile com Expo
+### Mobile React-Native Expo
 
 1. Navegue até a pasta do projeto mobile
 2. Instale as dependências com npm ou yarn
