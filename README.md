@@ -30,6 +30,8 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 2. Instale as dependências com npm ou yarn
 3. Rodar a aplicação use 'npm run dev'
 4. Frontend Web: 'http://localhost:5173'
+### Preview
+<img src="https://github.com/GuilhermeSimbalista/Teste-Cadastro-Usuario/blob/main/img/frontend.JPG" alt="preview" width="250" height="250" />
 
 ### Mobile com Expo
 
@@ -37,3 +39,5 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 2. Instale as dependências com npm ou yarn
 3. Rodar a aplicação use 'expo start'
 4. Use o aplicativo Expo para escanear o QR Code gerado após o comando
+### Preview
+<img src="https://github.com/GuilhermeSimbalista/Teste-Cadastro-Usuario/blob/main/img/mobile.jpeg" alt="preview" width="250" height="500"/>
